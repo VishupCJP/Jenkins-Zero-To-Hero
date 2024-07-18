@@ -5,7 +5,7 @@ def call() {
             stage('Build') {
                 steps {
                     echo 'Building...'
-                    // Your build steps here and make changes
+                    // Your build steps here 
                 }
             }
             stage('Test') {
