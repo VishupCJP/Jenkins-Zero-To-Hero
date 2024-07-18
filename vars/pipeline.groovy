@@ -1,3 +1,4 @@
+@Library("piprline-library") _
 def call() {
     pipeline {
         agent any
